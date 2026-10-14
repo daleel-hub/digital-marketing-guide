@@ -1,0 +1,13 @@
+title: دليل التسويق الرقمي
+description: مقالات عربية عملية في التسويق الإلكتروني ونمو الشركات في مصر والسعودية
+lang: ar
+locale: ar_EG
+url: "https://daleel-hub.github.io"
+baseurl: "/digital-marketing-guide"
+permalink: /:title/
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - README.md
