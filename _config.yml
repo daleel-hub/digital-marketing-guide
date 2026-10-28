@@ -11,3 +11,4 @@ plugins:
   - jekyll-sitemap
 exclude:
   - README.md
+future: true
